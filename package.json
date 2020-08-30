@@ -1,0 +1,14 @@
+{
+  "name": "cyoa-parser",
+  "version": "1.0.0",
+  "description": "a story parser",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Noguera",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

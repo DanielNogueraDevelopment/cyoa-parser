@@ -1,0 +1,1 @@
+var txtSpeed = 100;

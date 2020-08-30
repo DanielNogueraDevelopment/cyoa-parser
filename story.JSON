@@ -1,0 +1,8 @@
+{
+    "meta": { "Authors": ["Daniel Noguera", "Sam Van Slyke"] },
+    "story": [
+        { "pic": "test.jpg", "text": "this is test text", "scripts": ["slowTxt.js"], "params": { "bool": true }, "color": "red", "options": [{ "text": "go forward", "result": 1, "style": "primary" }, { "text": "turn back", "result": 0, "style": "warning" }] },
+        { "pic": "tedt.jpg", "text": "this is test text", "color": "red", "options": [{ "text": "go forward", "result": 1, "style": "primary" }, { "text": "turn back", "result": 0, "style": "warning" }] }
+
+    ]
+}
